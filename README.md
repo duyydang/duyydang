@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Spark, ETL, SQL,  Kafka, Flutter, IoT,...
 - 👀 I’m interested in Data Engineer
 
---> FB: https://www.facebook.com/duyydang/
+--> Facebook: https://www.facebook.com/duyydang/
+--> Linkedin: www.linkedin.com/in/duydangqb
