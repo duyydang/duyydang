@@ -1,4 +1,4 @@
-### Hi there I'm DuyyDang 👋
+### Hi there I'm Dang Luong Duy 👋
 - ⚡ I'm working Data Engineer
 - 🌱 I’m currently learning Spark, ETL, SQL,  Kafka, AWS, IoT,...
 
